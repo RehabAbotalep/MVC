@@ -1,0 +1,17 @@
+{
+    "name": "dell/mvc",
+    "authors": [
+        {
+            "name": "Rehab",
+            "email": "rehab.abotalep@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
